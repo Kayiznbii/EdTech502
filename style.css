@@ -150,10 +150,10 @@ hr {
     height: 0;
     padding-bottom: 50%;            
     background-color: white;
-    border-top-left-radius: 15%;     
-    border-top-right-radius: 15%;    
+    border-top-left-radius: 5%;     
+    border-top-right-radius: 5%;    
     position: absolute;
-    top: -25%;                      
+    top: -3%;                      
     left: 0;
     z-index: -1;                 
 }
@@ -173,4 +173,12 @@ hr {
 
 .center {
     text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
 }
