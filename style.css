@@ -7,6 +7,10 @@
 
 Contrast - Black Text */
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Navigation */
 
 
@@ -112,6 +116,10 @@ hr {
     margin-top: 250px;
 }
 
+.neth2 {
+    text-align: left;
+}
+
 .largebutton {
     background-color: #ACC3B8;
     color: white;
@@ -169,6 +177,8 @@ hr {
     color: white;
     border: solid #B8818C 5px;
     margin: 15px;
+    font-size: x-large;
+    float: right;
 }
 
 .center {
@@ -181,4 +191,17 @@ a {
 
 a:hover {
     color: white;
+}
+
+a p:hover {
+    color:#82A393;
+}
+
+.footer-text {
+    color: rgb(90, 90, 90);
+}
+
+a:hover .footer-text {
+    color:#82A393;
+    font-weight: bold;
 }
