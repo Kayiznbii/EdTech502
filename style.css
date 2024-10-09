@@ -210,3 +210,41 @@ a:hover .footer-text {
     color:#82A393;
     font-weight: bold;
 }
+
+.color-block {
+    background-color: #B8818C;
+    position: relative;
+    border-radius: 15px;
+    padding: 5px 15px;
+    text-align: left;
+    color: white;
+}
+
+.white-box {
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.banner {
+    background-image: url('Images/45-Web-Accessibility-An-Overview.webp');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    width: 100%;
+  }
+
+  .accessibility-link {
+    color: #82A393;
+    text-decoration: underline;
+    font-weight: bolder;
+  }
+
+  .accessibility-link:hover {
+    color: #B8818C;
+  }
+
+  .top-links {
+    font-size: x-large;
+    padding: 10px;
+  }
