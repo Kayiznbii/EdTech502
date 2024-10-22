@@ -227,7 +227,7 @@ a:hover .footer-text {
 }
 
 .banner {
-    background-image: url('Images/45-Web-Accessibility-An-Overview.webp');
+    background-image: url('Images/Banner.png');
     background-size: cover;
     background-position: center;
     height: 800px;
@@ -235,7 +235,7 @@ a:hover .footer-text {
   }
 
   .accessibility-link {
-    color: #82A393;
+    color: #094126;
     font-weight: bolder;
   }
 
