@@ -280,3 +280,31 @@ a:hover .footer-text {
     text-align: center;
 }
 
+.form-style {
+    background-color: #82A393;
+    color: white;
+    padding: 15px;
+    margin: 80px;
+    border-radius: 20px;
+
+}
+
+.submit {
+    background-color:#B8818C;
+    color: white;
+    font-size: xx-large;
+    border: solid 5px #B8818C;
+    border-radius: 15px;
+}
+
+.submit:hover {
+    background-color: #F1DADE;
+    border: solid 5px #F1DADE;
+    border-radius: 15px;
+    color: black;
+}
+
+a.scavenger-links {
+    color:#82A393;
+    font-weight: bold;
+}
