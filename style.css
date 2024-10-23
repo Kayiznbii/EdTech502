@@ -263,3 +263,20 @@ a:hover .footer-text {
     display: block;  
     margin: 20px auto;  
 }
+
+.full-width-image {
+    width: 100%; 
+    height: auto;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.responsive-heading {
+    font-size: 4vw; 
+    text-align: center;
+}
+
