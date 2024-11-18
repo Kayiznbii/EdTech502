@@ -1,0 +1,83 @@
+/* Color scheme 
+Ivory - #F5FBEF
+Cambridge Blue - #92AD94
+Reseda Green - #748B75
+Rose Ebony - #503D42
+
+
+Hunter Green - #3A5A40
+Sage - #A3B18A
+Timberwolf - #DAD7CD
+Fern Green - #588157
+Brunswick Green - #344E41
+*/
+
+/* Title and Image */
+
+body {
+    color:#F5FBEF;
+    background-color: #748B75;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+.full-screen-image {
+    background-image: url(Images/20230506_072636.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    color: white;
+}
+
+.overlay-text {
+    background: rgba(52, 78, 65, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.overlay-text h1 {
+    font-size: 2.5em;
+}
+
+.overlay-text p {
+    font-size: 1.2em;
+}
+
+/* Top Nav */
+.topnav {
+    overflow: hidden;
+    background-color: #748B75;
+    height: 25px;
+}
+
+a {
+    color: #F5FBEF;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: #503D42;
+    font-weight: bolder;
+}
+
+.tricks-box {
+    border: #344E41, 10px, solid;
+    background-color: #344E41;
+    border-radius: 20px;
+    width: 100%;
+    height: auto;
+    margin: 15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+
